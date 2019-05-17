@@ -1,0 +1,23 @@
+1.	Screen shot should be taken for failed test case.
+
+2.	All test data should be TestDataconfig.properties file
+
+3.	You must have Utils class with all re-usable methods
+
+4.	Minimum following test case should be implemented.
+
+•	User should be able to change currency
+
+•	User should be able to sort product High to low (For any category)
+
+•	User should be able to Register successfully
+
+•	Registered user should be able to refer product to friend.
+
+•	Un-registered user should NOT able to refer product to friend
+
+•	User should able to add 2 products to shopping cart
+
+•	User should be able to open home page in three browsers (Chrome, IE, Firefox) 
+
+5.	Write BDD style test case(In word) for (User should be able to register successfully)
